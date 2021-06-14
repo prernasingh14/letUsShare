@@ -1,5 +1,5 @@
 # Lets share memories 
-Developed a MERN stack based social media application that allows users to post photos along with captions and related tags .
+Developed a MERN stack based social media application that allows users to post photos along with captions and related tags as well as like,delete or edit posts.
 
 # Screenshots 
 
